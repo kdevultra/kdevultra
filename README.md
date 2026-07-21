@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm Kdevultra</h1>
+  <h1>Hi 👋, I'm Kafui Homevo (@kdevultra)</h1>
   <h3>Mathematical Engineer | AI & Mech Interp | Former Founder</h3>
   <p><i>Passionate about the dynamics of complex systems and making Africa great again.</i></p>
 </div>
