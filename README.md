@@ -1,50 +1,43 @@
 <div align="center">
-  <h1>Hi 👋, I'm Kafui Homevo (@kdevultra)</h1>
-  <h3>Mathematical Engineer | AI & Mech Interp | Former Founder</h3>
-  <p><i>Passionate about the dynamics of complex systems and making Africa great again.</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=180&section=header&text=Kdevultra&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Mathematical%20Engineer%20|%20AI%20&%20Complex%20Systems&descSize=16&descAlignY=62" alt="Header" />
+</div>
+
+<div align="center">
+  <h3>🧠 Bridging Mathematical Rigor, Artificial Intelligence, and Business Acumen</h3>
+  <p><i>"Making Africa great again through scalable engineering, complex systems dynamics, and deep technical execution."</i></p>
 </div>
 
 ---
 
-## 🧠 About Me
+## ⚡ About Me
 
-I am currently studying Mathematical and Modeling Engineering at UNSTIM, where my work focuses on bridging advanced mathematics with real-world applications. My background is uniquely split between rigorous technical science and strategic business growth. Before diving deep into applied mathematics and complex systems, I founded **KreatorsFunnels**, a marketing agency specializing in full-stack sales funnels, giving me a strong, practical understanding of the business side of technology.
+- 🎓 **Engineering & Academics:** Final-year student in Mathematical Engineering and Modeling at UNSTIM, specializing in numerical simulations, finite element/volume methods, and compartmental epidemic models (SIR, SEIRS).
+- 🔬 **Core Research & Interests:** Deep learning, mechanistic interpretability, and spatial heterogeneity in complex dynamic systems.
+- 💼 **Entrepreneurial Background:** Former founder of **KreatorsFunnels** (a full-stack sales funnel marketing agency), bringing a sharp, real-world understanding of business execution, product positioning, and scaling solutions.
 
-Today, my technical work explores the intersection of **numerical simulations, epidemiological modeling, and artificial intelligence**.
+---
 
-- 🔭 **Current Focus:** Deep learning, mechanistic interpretability, and modeling spatial heterogeneity in epidemic spread (e.g., diffusive SEIRS models).
-- 🌱 **Academics:** 4th-year engineering student, applying Finite Element and Finite Volume methods to complex dynamic systems.
-- 💡 **Philosophy:** Combining entrepreneurial business acumen with mathematical rigor to solve hard problems, scale solutions, and drive continental growth.
-
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Ecosystem
 
 <p align="left">
-  <!-- Core Math & Python -->
+  <!-- Core Math & SciPy Stack -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" alt="Poetry" />
-  <!-- AI / Deep Learning Placeholder (Remove or keep based on preference) -->
+  <!-- AI / ML -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <!-- Dev Tools -->
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
-## 📈 GitHub Analytics
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kdevultra&show_icons=true&theme=radical&hide_border=true" alt="Kdevultra's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdevultra&theme=radical&hide_border=true" alt="Kdevultra's GitHub Streak" />
-</div>
+## 🚀 Featured Focus Areas
 
-## 📫 Let's Connect
-
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+```text
+kdevultra/
+├── 🧮 diffusive-seirs-modeling/   # 2D spatial heterogeneity and R0 numerical simulations
+├── 🔬 mech-interpretability/      # Inspecting internal representations of deep learning models
+└── 📊 business-tech-solutions/    # Engineering-driven systems blended with practical market scaling
