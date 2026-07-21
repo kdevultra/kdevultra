@@ -15,7 +15,7 @@
 
 <br/>
 
-> *Small perturbations, cascading consequences — that's the core lesson of chaos theory, and exactly why interpretability matters when we hand decisions to models we don't fully understand.*
+> *Small perturbations, cascading consequences : that's the core lesson of chaos theory, and exactly why interpretability matters when we hand decisions to models we don't fully understand.*
 
 ---
 
@@ -23,13 +23,13 @@
 
 I'm a Mathematical Engineering student (M1) at **ENSGMM, UNSTIM** in Benin, working at the intersection of applied mathematics, dynamical systems, and deep learning. My focus is **AI safety and mechanistic interpretability** — understanding *why* a model behaves the way it does, not just confirming *that* it works.
 
-Before committing fully to research, I spent a year as founder and CEO of **Kreators Funnels**, a marketing agency building full-stack sales funnels — so alongside the math, I bring a working understanding of how to actually ship, market, and sell something. In parallel, I write essays on AGI risk, algorithmic control, and cognitive agency, and I read a lot of sci-fi, which probably isn't a coincidence.
+Before committing fully to research, I spent a year as founder and CEO of **Kreators Funnels**, a marketing agency building full-stack sales funnels, so alongside the math, I bring a working understanding of how to actually ship, market, and sell something. In parallel, I write essays on AGI risk, algorithmic control, and cognitive agency, and I read a lot of sci-fi, which probably isn't a coincidence.
 
-- 🎓 Mathematical Engineering & Modeling, ENSGMM (UNSTIM) — 2024–2027, after intensive prep classes at INSPEI (2022–2024)
-- 🔭 Currently modeling chaotic dynamical systems and probing black-box opacity in deep networks
-- ✍️ Writing on AGI macro-societal risk, the control problem, and cognitive agency
-- 💼 Former founder & CEO, Kreators Funnels — full-stack sales-funnel agency
-- 📍 Benin, West Africa
+-  Mathematical Engineering & Modeling, ENSGMM (UNSTIM) — 2024–2027, after intensive prep classes at INSPEI (2022–2024)
+-  Currently modeling chaotic dynamical systems and probing black-box opacity in deep networks
+-  Writing on AGI macro-societal risk, the control problem, and cognitive agency
+-  Former founder & CEO, Kreators Funnels — full-stack sales-funnel agency
+-  Benin, West Africa
 
 ---
 
