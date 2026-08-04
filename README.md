@@ -138,6 +138,21 @@ Examines macro-societal AGI risk: the erosion of human agency through economic d
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kdevultra&theme=radical&hide_border=true" alt="Kafui's GitHub Streak" />
 </div>
 
+<!-- Trophies (github-profile-trophy) -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=kdevultra&theme=onedark&row=1&margin-w=15)](https://github.com/kdevultra)
+
+<!-- Streak / Streak stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kdevultra&theme=dark&hide_border=true)](https://github.com/kdevultra)
+
+<!-- Top Languages (github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdevultra&layout=compact&theme=dark&hide_border=true)](https://github.com/kdevultra)
+
+<!-- User-level / overall GitHub stats (option A: GitHub stats card) -->
+[![kdevultra's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdevultra&show_icons=true&theme=radical&hide_border=true)](https://github.com/kdevultra)
+
+<!-- User-level (option B: profile details card) -->
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdevultra&theme=dark)](https://github.com/kdevultra)
+
 ---
 
 ## Beyond the Code
